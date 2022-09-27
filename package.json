@@ -1,0 +1,40 @@
+{
+  "name": "sandworm-jest",
+  "version": "1.0.0",
+  "description": "Security Snapshot Testing Inside Your Jest Test Suite 🪱",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "yarn eslint ./src/",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandworm-hq/sandworm-jest.git"
+  },
+  "keywords": [
+    "jest",
+    "security",
+    "audit",
+    "dependencies",
+    "sandbox",
+    "harden"
+  ],
+  "author": "Sandworm <dev@sandworm.dev>",
+  "license": "MIT",
+  "homepage": "https://sandworm.dev",
+  "dependencies": {
+    "sandworm": "1.2.1",
+    "sandworm-utils": "1.1.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0",
+    "eslint": "^8.23.1",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "husky": "^8.0.0",
+    "prettier": "^2.7.1"
+  }
+}
