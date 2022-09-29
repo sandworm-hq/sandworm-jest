@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/sandworm-hq/sandworm-jest/compare/sandworm-jest-v1.0.0...sandworm-jest-v1.1.0) (2022-09-29)
+
+
+### Features
+
+* initial release ([4803994](https://github.com/sandworm-hq/sandworm-jest/commit/4803994a6e42440b722561abb9a5775a227c1cc0))
+
 ## [1.2.0](https://github.com/sandworm-hq/sandworm-mocha/compare/sandworm-mocha-v1.1.0...sandworm-mocha-v1.2.0) (2022-09-27)
 
 
