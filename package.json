@@ -23,7 +23,7 @@
   "license": "MIT",
   "homepage": "https://sandworm.dev",
   "dependencies": {
-    "sandworm-utils": "1.4.0"
+    "sandworm-utils": "1.6.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
