@@ -1,6 +1,6 @@
 {
   "name": "sandworm-jest",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Security Snapshot Testing Inside Your Jest Test Suite 🪱",
   "main": "setup/index.js",
   "scripts": {
