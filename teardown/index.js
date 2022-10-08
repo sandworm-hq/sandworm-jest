@@ -15,7 +15,7 @@ module.exports = async () => {
 
   await stopRecordingSandwormActivity();
 
-  const [devDependencies, prodDependencies] = await loadDependencies(appPath);
+  const {devDependencies, prodDependencies} = await loadDependencies(appPath);
   const ignoredModules =
     config && Array.isArray(config.ignoredModules) ? config.ignoredModules : [];
   const permissions = getPermissionsFromActivity(activity);
