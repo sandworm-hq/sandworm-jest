@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/sandworm-hq/sandworm-jest/compare/sandworm-jest-v1.3.0...sandworm-jest-v1.4.0) (2022-10-08)
+
+
+### Features
+
+* update `sandworm-utils` to v1.7.0 ([0b08488](https://github.com/sandworm-hq/sandworm-jest/commit/0b084888ddc593adf946dd81311ddf5fa2c70c26))
+
 ## [1.3.0](https://github.com/sandworm-hq/sandworm-jest/compare/sandworm-jest-v1.2.0...sandworm-jest-v1.3.0) (2022-09-29)
 
 
