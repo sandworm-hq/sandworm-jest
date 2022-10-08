@@ -2572,10 +2572,10 @@ safer-buffer@^2.0.2:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-sandworm-utils@1.6.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/sandworm-utils/-/sandworm-utils-1.6.0.tgz#9073e4703f397c9729ed420353444ef53f109770"
-  integrity sha512-Y5BlDfNuB/aRnyhcw4JNI4k+PalND+TZSA3HTHbBaMWFRZf2L7NdA5fzpmTtTHon1/zRKl+oYHQJ14qqhANfnQ==
+sandworm-utils@1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/sandworm-utils/-/sandworm-utils-1.7.0.tgz#6ed14ff64ac3ad94ead597eb48ecd417ba36b88a"
+  integrity sha512-db5RR+AWZRrVp2hu3Mr5Ql7CCNlZHUtf25iH2bQ2Nl8HfzDhgyxt+Gl1YG5wabhz+/fq56RVQ0A92IHwebF7Fw==
   dependencies:
     sandworm "1.3.2"
     snyk-nodejs-lockfile-parser "1.43.1"
